@@ -1,2 +1,2 @@
 # chocolatey-packages
-A collection of packages I maintain for Chocolatey
+A collection of Chocolatey packages
