@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>documentdb-emulator</id>
-    <version>1.0.0</version>
+    <id>azure-documentdb-emulator</id>
+    <version>1.11.136.2</version>
     <packageSourceUrl>https://github.com/ryancrawcour/chocolatey-packages/tree/master/automatic/azure-documentdb-emulator</packageSourceUrl>
     <owners>Ryan CrawCour</owners>
-    <title>azure-documentdb-emulator (Install)</title>
+    <title>Azure DocumentDB Emulator</title>
     <authors>Ryan CrawCour</authors>
     <projectUrl>https://documentdb.com</projectUrl>
     <iconUrl>http://cdn.rawgit.com/ryancrawcour/chocolatey-packages/master/icons/azure-documentdb.png</iconUrl>
