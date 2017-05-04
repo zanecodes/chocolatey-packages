@@ -1,4 +1,5 @@
-﻿$ErrorActionPreference = 'Stop';
+
+$ErrorActionPreference = 'Stop';
 
 $packageName= 'azure-documentdb-emulator'
 $softwareName = 'Azure DocumentDB Emulator'
@@ -18,4 +19,6 @@ $packageArgs = @{
   validExitCodes= @(0, 3010, 1641)
 }
 
-Install-ChocolateyPackage @packageArgs # https://chocolatey.org/docs/helpers-install-chocolatey-package
+if(! (test-path "${Env:ProgramFiles}\DocumentDB Emulator\DocumentDB.Emulator.exe")){
+  Install-ChocolateyPackage @packageArgs
+}
