@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>azure-documentdb-emulator</id>
-    <version>1.11.136.2</version>
+    <version>1.13.58.2</version>
     <packageSourceUrl>https://github.com/ryancrawcour/chocolatey-packages/tree/master/automatic/azure-documentdb-emulator</packageSourceUrl>
     <owners>Ryan CrawCour</owners>
     <title>Azure DocumentDB Emulator</title>
