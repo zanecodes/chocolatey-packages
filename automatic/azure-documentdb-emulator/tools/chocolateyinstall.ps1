@@ -11,7 +11,7 @@ $packageArgs = @{
   fileType      = 'MSI'
   url           = $url
   softwareName  = $softwareName 
-  checksum      = 'C6D760F573CA52D1791DDCA3C00CF93B'
+  checksum      = '08cce69312b881efd155504d6e9fdd08'
   checksumType  = 'md5'
 
   #MSI
