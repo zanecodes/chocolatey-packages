@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop'; # stop on all errors
 
-$packageName = 'azure-documentdb-emulator'
-$softwareName = 'Azure DocumentDB Emulator'
+$packageName = 'azure-cosmosdb-emulator'
+$softwareName = 'Azure Cosmos DB Emulator'
 $installerType = 'MSI' 
 
 $silentArgs = '/qn /norestart'
